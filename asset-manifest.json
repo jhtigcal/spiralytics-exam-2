@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spiralytics-exam-2/static/css/main.5c42ef86.css",
+    "main.js": "/spiralytics-exam-2/static/js/main.64520d35.js",
+    "static/media/gears-large.jpg": "/spiralytics-exam-2/static/media/gears-large.236bf0b459b3e4962ecb.jpg",
+    "static/media/splitshire.jpg": "/spiralytics-exam-2/static/media/splitshire.72395bca77fb0c347c3f.jpg",
+    "static/media/gear-7.jpg": "/spiralytics-exam-2/static/media/gear-7.aebdf811809d0979e69f.jpg",
+    "static/media/gear-6.jpg": "/spiralytics-exam-2/static/media/gear-6.79b93bc6b351493f47d1.jpg",
+    "static/media/gear-3.jpg": "/spiralytics-exam-2/static/media/gear-3.5c010dff2657035dcfde.jpg",
+    "static/media/gear-5.jpg": "/spiralytics-exam-2/static/media/gear-5.76dabbd6548ef37c1e73.jpg",
+    "static/media/gear-8.jpg": "/spiralytics-exam-2/static/media/gear-8.d6b3b4d8ac4b3fc10d3f.jpg",
+    "static/media/gear-4.jpg": "/spiralytics-exam-2/static/media/gear-4.92bb7fe305f9be5e7898.jpg",
+    "static/media/gear-1.jpg": "/spiralytics-exam-2/static/media/gear-1.b23a9a0646373bafd1dd.jpg",
+    "static/media/gear-9.jpg": "/spiralytics-exam-2/static/media/gear-9.4ea0df2344db7e2b0f9f.jpg",
+    "index.html": "/spiralytics-exam-2/index.html",
+    "main.5c42ef86.css.map": "/spiralytics-exam-2/static/css/main.5c42ef86.css.map",
+    "main.64520d35.js.map": "/spiralytics-exam-2/static/js/main.64520d35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c42ef86.css",
+    "static/js/main.64520d35.js"
+  ]
+}
